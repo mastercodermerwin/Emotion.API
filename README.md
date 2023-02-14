@@ -6,7 +6,7 @@ API for dectecting Emotion.
 
  
 ## Docs
-
+ 
  
 - Link : https://emotionapi.darkmash.repl.co/
 
